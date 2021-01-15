@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">All In One</string>
+    <string name="title_activity_voice">Voice</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="google_maps_API_key">AIzaSyAf_2nyOyxxkBRK0bStKbWb_e1E2ZyDZOM</string>
+</resources>
